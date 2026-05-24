@@ -43,7 +43,6 @@ rainfall-prediction-classifier/
 │
 |── confusion_matrix_Random_Forest.png
 |__ confusion_matrix_Logistic_Regression.png
-│── accuracy_graph.png
 │
 ├── requirements.txt
 ├── README.md
