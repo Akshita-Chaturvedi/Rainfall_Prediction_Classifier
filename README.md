@@ -39,12 +39,11 @@ rainfall-prediction-classifier/
 ├── data/
 │   └── weather.csv
 │
-├── notebooks/
-│   └── rainfall_prediction.ipynb
+|── rainfall_prediction.ipynb
 │
-├── results/
-│   ├── confusion_matrix.png
-│   └── accuracy_graph.png
+|── confusion_matrix_Random_Forest.png
+|__ confusion_matrix_Logistic_Regression.png
+│── accuracy_graph.png
 │
 ├── requirements.txt
 ├── README.md
